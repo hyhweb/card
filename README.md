@@ -8,4 +8,3 @@ a React Native starter powered by [dva](https://github.com/dvajs/dva) and [react
 yarn # or npm install
 react-native run-ios # or react-native run-android
 ```
-
